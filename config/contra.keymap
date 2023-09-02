@@ -32,5 +32,6 @@
     &kp LCTRL &kp LGUI  &kp LALT &sys_reset   &to DEFAULT &kp SPACE  &trans    &mo BT_CTRL &kp LEFT  &kp RIGHT &kp UP   &kp DOWN
             >;
         };
+
     };
 };
